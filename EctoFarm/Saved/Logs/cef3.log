@@ -1,9 +1,6 @@
-[22328:15396:0323/162535.905:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[22328:15396:0323/162535.917:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clé non valide pour l’utilisation dans l’état spécifié. (0x8009000B)
-[22328:18036:0323/162535.962:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[22328:15396:0323/162535.977:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[12196:9800:0323/162540.864:ERROR:backend_impl.cc(989)] Critical error found -8
-[12196:9800:0323/162540.865:ERROR:entry_impl.cc(1029)] No file for b2020000
-[12196:9800:0323/162540.865:WARNING:storage_block-inl.h(138)] Failed data load.
-[16236:18052:0323/162603.118:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-858DB63903F84EDA2381C321ED80AE9E will be ignored
-[22328:15396:0323/162803.109:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[22760:18976:0323/163836.978:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22760:21760:0323/163837.017:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[22760:18976:0323/163837.027:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22760:18976:0323/163849.742:ERROR:device_event_log_impl.cc(196)] [16:38:49.730] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[2332:14012:0323/163907.775:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B3E31D9C96673A3C36768130AC169E1C will be ignored
+[22760:18976:0323/171609.167:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
