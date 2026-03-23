@@ -1,3 +1,2 @@
-2026/03/16-14:55:24.161 5640 Reusing MANIFEST D:\root\GitHub\EctoFarm\EctoFarm\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/16-14:55:24.169 5640 Recovering log #3
-2026/03/16-14:55:24.171 5640 Reusing old log D:\root\GitHub\EctoFarm\EctoFarm\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/03/16-15:56:08.185 a020 Creating DB C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/03/16-15:56:08.223 a020 Reusing MANIFEST C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
