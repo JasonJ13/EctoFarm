@@ -1,12 +1,22 @@
-[23292:11536:0316/165928.931:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[23292:18032:0316/165928.979:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[23292:11536:0316/165928.992:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[23292:5264:0316/165932.302:WARNING:leveldb_database.cc(141)] Unable to open D:\root\GitHub\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\root\GitHub\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23292:5264:0316/165932.303:WARNING:leveldb_database.cc(141)] Unable to open D:\root\GitHub\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\root\GitHub\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23292:5264:0316/165932.304:WARNING:leveldb_database.cc(141)] Unable to open D:\root\GitHub\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\root\GitHub\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23292:5264:0316/165932.306:WARNING:leveldb_database.cc(141)] Unable to open D:\root\GitHub\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\root\GitHub\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23292:5264:0316/165933.059:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23292:5264:0316/165933.061:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[25232:17232:0316/165933.474:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4FD9C33D0CCD64CA75A4A8C506D4453F will be ignored
-[23292:8456:0316/165937.582:WARNING:leveldb_database.cc(141)] Unable to open D:\root\GitHub\EctoFarm\EctoFarm\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: D:\root\GitHub\EctoFarm\EctoFarm\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23292:11536:0316/170002.488:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[5556:15028:0323/163518.904:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5556:17128:0323/163518.989:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[5556:15028:0323/163519.065:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17804:14124:0323/163528.133:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-EB4D8A12D3AFCEDCD63CFB5A54435809 will be ignored
+[5556:2880:0323/172909.510:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17916:13220:0323/172909.513:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5556:18160:0323/172914.513:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17916:13220:0323/172914.521:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5556:18160:0323/172924.516:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17916:13220:0323/172924.539:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5556:18160:0323/172944.519:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17916:13220:0323/172944.547:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5556:18160:0323/173613.982:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5556:18160:0323/173614.012:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5556:18160:0323/173614.038:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17916:13220:0323/173614.039:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5556:15028:0323/173615.203:ERROR:device_event_log_impl.cc(196)] [17:36:13.434] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[5556:18160:0323/173619.045:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17916:13220:0323/173619.054:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5556:18160:0323/173629.050:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17916:13220:0323/173629.061:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5556:15028:0323/173635.461:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
