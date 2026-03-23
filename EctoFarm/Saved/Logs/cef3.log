@@ -1,20 +1,5 @@
-<<<<<<< HEAD
-[92452:60888:0323/173021.103:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[92452:84684:0323/173021.171:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[92452:60888:0323/173021.192:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[92452:8468:0323/173025.160:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[92452:8468:0323/173025.170:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[92452:8468:0323/173025.180:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[92452:8468:0323/173025.190:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[92452:19764:0323/173026.444:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[92452:19764:0323/173026.456:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28220:97516:0323/173047.703:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CCFE3ED453A8050DAC9783C08FAEF667 will be ignored
-[92452:60888:0323/173342.344:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-=======
-[22760:18976:0323/163836.978:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[22760:21760:0323/163837.017:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[22760:18976:0323/163837.027:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[22760:18976:0323/163849.742:ERROR:device_event_log_impl.cc(196)] [16:38:49.730] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[2332:14012:0323/163907.775:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B3E31D9C96673A3C36768130AC169E1C will be ignored
-[22760:18976:0323/171609.167:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
->>>>>>> main
+[9116:6760:0323/182324.456:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9116:16616:0323/182324.528:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[9116:6760:0323/182324.561:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5560:2716:0323/182332.625:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1B6891DB1AD3E83EA2C2B4BCBBD00110 will be ignored
+[9116:6760:0323/183241.119:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
