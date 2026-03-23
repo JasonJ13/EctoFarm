@@ -1,2 +1,3 @@
-2026/02/24-16:35:09.253 4460 Creating DB C:\Users\Jason\Documents\GameJam\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db since it was missing.
-2026/02/24-16:35:09.260 4460 Reusing MANIFEST C:\Users\Jason\Documents\GameJam\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/03/23-16:38:39.656 443c Reusing MANIFEST C:\Users\Jason\Documents\GameJam\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/03/23-16:38:39.656 443c Recovering log #3
+2026/03/23-16:38:39.657 443c Reusing old log C:\Users\Jason\Documents\GameJam\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db/000003.log 
