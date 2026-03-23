@@ -1,6 +1,1 @@
-2026/03/16-15:56:08.011 7978 Log #6: 2 ops saved to Table #7 OK
-2026/03/16-15:56:08.016 7978 Archiving C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
-2026/03/16-15:56:08.016 7978 Table #4: 1 entries OK
-2026/03/16-15:56:08.017 7978 Table #7: 2 entries OK
-2026/03/16-15:56:08.025 7978 Archiving C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/03/16-15:56:08.038 7978 **** Repaired leveldb C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 308 bytes. Some data may have been lost. ****
+2026/03/16-15:56:08.048 7978 Reusing MANIFEST C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001

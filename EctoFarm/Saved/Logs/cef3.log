@@ -1,12 +1,9 @@
-[81120:23620:0316/155607.900:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[81120:23620:0316/155607.920:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clé non valide pour l’utilisation dans l’état spécifié. (0x8009000B)
-[81120:75424:0316/155607.956:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[81120:23620:0316/155607.974:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[81120:64636:0316/155611.876:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[81120:64636:0316/155611.889:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[81120:64636:0316/155611.898:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[81120:64636:0316/155611.909:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\JIN\Documents\PartyBuilder\EctoFarm\EctoFarm\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[81120:45204:0316/155613.453:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[81120:45204:0316/155613.465:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[47424:28168:0316/155634.518:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-87DC45E0D136AE6D3F5E2A12DEE2DB44 will be ignored
-[73516:98208:0316/164910.928:ERROR:command_buffer_proxy_impl.cc(132)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[22328:15396:0323/162535.905:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22328:15396:0323/162535.917:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clé non valide pour l’utilisation dans l’état spécifié. (0x8009000B)
+[22328:18036:0323/162535.962:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[22328:15396:0323/162535.977:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12196:9800:0323/162540.864:ERROR:backend_impl.cc(989)] Critical error found -8
+[12196:9800:0323/162540.865:ERROR:entry_impl.cc(1029)] No file for b2020000
+[12196:9800:0323/162540.865:WARNING:storage_block-inl.h(138)] Failed data load.
+[16236:18052:0323/162603.118:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-858DB63903F84EDA2381C321ED80AE9E will be ignored
+[22328:15396:0323/162803.109:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
