@@ -1,5 +1,10 @@
-[9116:6760:0323/182324.456:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[9116:16616:0323/182324.528:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[9116:6760:0323/182324.561:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[5560:2716:0323/182332.625:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1B6891DB1AD3E83EA2C2B4BCBBD00110 will be ignored
-[9116:6760:0323/183241.119:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[16408:19264:0324/193911.981:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16408:1452:0324/193912.168:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16408:19264:0324/193912.276:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20572:20688:0324/193922.773:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DB0DAD8F954BEE760BE8A90F8F5E4D7E will be ignored
+[16408:19264:0324/200655.889:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/
+[16408:19264:0324/200656.219:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=1
+[16408:19264:0324/200656.220:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
+[16408:19264:0324/200656.552:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[16408:19264:0324/200656.557:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 285 ms
+[16408:19264:0324/204343.995:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
