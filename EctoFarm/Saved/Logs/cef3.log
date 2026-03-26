@@ -1,25 +1,20 @@
-[12472:24604:0325/184312.019:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[12472:6976:0325/184312.053:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[12472:24604:0325/184312.065:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[15736:13580:0325/184318.424:ERROR:backend_impl.cc(989)] Critical error found -8
-[15736:13580:0325/184318.424:ERROR:entry_impl.cc(1029)] No file for b2020000
-[15736:13580:0325/184318.424:WARNING:storage_block-inl.h(138)] Failed data load.
-[10828:1404:0325/184319.008:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9AD63506C414D91C4DEBB2C672F4924F will be ignored
-[15736:10052:0325/190503.313:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[15736:10052:0325/190503.337:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[12472:6976:0325/190503.339:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[12472:12476:0325/190503.375:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[15736:10384:0325/190503.410:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[12472:12476:0325/215252.687:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[15736:10384:0325/215252.710:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[12472:12476:0325/215252.747:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[15736:10052:0325/215252.762:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[12472:6976:0325/215257.749:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[15736:10052:0325/215257.775:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[12472:6976:0325/215301.480:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[15736:10052:0325/215301.494:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[15736:10384:0325/215301.525:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[12472:6976:0325/215301.543:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[12472:6976:0325/215301.567:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[15736:10052:0325/215301.577:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[12472:24604:0325/215317.573:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[4368:4364:0326/202522.376:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4368:19324:0326/202522.415:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[4368:9904:0326/202522.417:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[4368:4364:0326/202522.430:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14716:18604:0326/202522.490:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13444:13352:0326/202526.963:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-70410F7A8AD4A0E75C86F0D99959A9D6 will be ignored
+[13016:13056:0326/202527.112:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-6B06603096041E3E01007516ECE155E9 will be ignored
+[10296:14820:0326/202527.169:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[4368:17192:0326/202527.419:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14716:18604:0326/202527.499:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[4368:17192:0326/202537.423:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14716:18604:0326/202537.507:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[4368:17192:0326/202557.428:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14716:18604:0326/202557.524:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[4368:17192:0326/203027.010:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14716:18604:0326/203027.019:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[4368:4364:0326/203409.351:ERROR:device_event_log_impl.cc(196)] [20:34:09.336] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[4368:4364:0326/203409.365:ERROR:device_event_log_impl.cc(196)] [20:34:09.354] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[4368:4364:0326/203409.391:ERROR:device_event_log_impl.cc(196)] [20:34:09.376] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Aucune donnée n’est disponible. (0x103)
+[4368:4364:0326/232514.982:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
